@@ -18,7 +18,7 @@ This project predicts whether an employee earns more than 50K or less/equal base
 
 ##  Project Structure
 
-employee-salary-prediction/
+Employee-salary-prediction/
 │
 ├── app.py # Streamlit web app
 ├── best_model.pkl # Saved trained model pipeline
