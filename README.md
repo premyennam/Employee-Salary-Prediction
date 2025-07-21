@@ -18,16 +18,7 @@ This project predicts whether an employee earns more than 50K or less/equal base
 
 ##  Project Structure
 
-Employee-salary-prediction/
-│
-├── app.py # Streamlit web app
-├── best_model.pkl # Saved trained model pipeline
-├── feature_columns.pkl # Feature column order for prediction
-├── employee_salary_prediction.ipynb # Notebook for training, EDA, and modeling
-├── adult.csv # Cleaned UCI Adult dataset
-├── requirements.txt # List of dependencies
-├── .gitignore # Files/directories to ignore in Git
-└── README.md # Project documentation
+<img width="478" height="373" alt="image" src="https://github.com/user-attachments/assets/074e3e30-48ba-4a33-a977-68ae960942ae" />
 
 ---
 
